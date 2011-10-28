@@ -1,5 +1,4 @@
-$ ->
-  window.MyView = {}
+window.MyApp = {}
 
 
 class MyApp.MyView extends Backbone.View
